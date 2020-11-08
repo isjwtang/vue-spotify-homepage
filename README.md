@@ -28,7 +28,7 @@ yarn lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###Reference
+### Reference
 
 - [VueCLI 项目如何使用 Tailwind CSS](https://cloud.tencent.com/developer/article/1557489)
 - [使用 material-design-icons](http://google.github.io/material-design-icons/)
